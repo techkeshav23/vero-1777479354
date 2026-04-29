@@ -2,7 +2,7 @@
 > Authentic Italian, refined for the modern palate.
 
 ## 🚀 Live Demo
-(building)
+https://vero-1777479354.vercel.app
 
 ## ✨ Features
 - **Immersive Hero**: A cinematic, full-bleed video background capturing the artistry of traditional pasta preparation.
@@ -19,8 +19,8 @@
 
 ## 🏃 Quick Start
 ```bash
-git clone 
-cd 
+git clone https://github.com/techkeshav23/vero-1777479354
+cd vero-1777479354
 npm install
 npm run dev
 ```
